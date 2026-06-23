@@ -31,14 +31,11 @@ window.TR_PANEL_DATA = {
                    competent-authority advisory OR one of your own blog posts.
                    If filled, a "Read more →" link appears on that entry.        */
   updates: [
-    {date:"1 Jan 2026", authority:"OECD / DITC", headline:"CRS 2.0 amendments and the Crypto-Asset Reporting Framework (CARF) take effect for the 2026 reporting year.", url:"https://www.ditc.ky"},
-    {date:"From 2026 reporting year", authority:"Cayman DITC", headline:"The CRS Return and CRS Compliance Form deadlines both move to 30 June (filed 2027 onward); the FATCA reporting deadline remains 31 July.", url:"https://www.ditc.ky"}
-
-    /* --- to add an update, copy the line above, paste it as a new line
-       at the TOP (newest first), change the values, and add a comma after
-       the line that is now above it. Example of a no-link entry:
-    ,{date:"15 Aug 2026", authority:"BVI ITA", headline:"Your headline here.", url:""}
-    */
+    {date:"17 Jun 2026", authority:"Cayman DITC", headline:"CRS and ES updates: the DITC Portal will close to CRS XML submissions in early August 2026 for the move to XML Schema v3.0 (the 31 July 2026 filing deadline is unchanged), and the DITC will stop sending ES courtesy reminder emails from ESN Year 2025.", url:"https://www.ditc.ky/wp-content/uploads/Common-Reporting-Standard-and-Economic-Substance-Updates.pdf"},
+    {date:"31 Mar 2026", authority:"Cayman DITC", headline:"CRS Participating and Reportable Jurisdictions lists gazetted, and the 2026 reporting deadlines confirmed for the 2025 year: notification 30 April, CRS/FATCA reporting 31 July, CRS Compliance Form 15 September.", url:"https://www.ditc.ky/press/crs-jurisdictions-lists-and-2026-reporting-deadlines/"},
+    {date:"25 Mar 2026", authority:"Cayman DITC", headline:"CARF registration deadline extended: Cayman RCASPs now have until 31 January 2027 to register the required information on the DITC Portal, pending portal functionality becoming available.", url:"https://www.ditc.ky/wp-content/uploads/Deadline_Extended_for_Registration_Under_Crypto-Asset_Reporting_Framework.pdf"},
+    {date:"21 Jan 2026", authority:"Cayman DITC", headline:"Amended CRS deadline extension: the deadline to register a PPoC in the Islands and the date an entity became an FI is extended to 31 January 2027 for all Cayman FIs.", url:"https://www.ditc.ky/wp-content/uploads/Deadline_Extension_PPoC_information_under_the_Amended_CRS.pdf"},
+    {date:"8 Dec 2025", authority:"Cayman DITC", headline:"CARF and the Amended CRS take effect in the Cayman Islands from 1 January 2026, with first reporting in 2027 for the 2026 year. RCASPs come into scope and new product types fall within CRS.", url:"https://www.ditc.ky/wp-content/uploads/CARF_and_Amended_CRS_Take_Effect_in-the_Cayman_Islands_from_1_January_2026.pdf"}
   ],
 
   /* ================= KEY DOCUMENTS =================
